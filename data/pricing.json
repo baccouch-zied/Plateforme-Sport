@@ -1,0 +1,59 @@
+{
+    "pricingItems": [
+        {
+            "currency": "$",
+            "price": "45",
+            "mark": false,
+            "active": false,
+            "package": "Abonnement Silver",
+            "headings": [
+                "Accès Premium aux Services", 
+                "Réseau de Partenariats ", 
+                "Développement Continus",
+                "Accompagnement",
+                "Gestion de Carrière Complète"
+            ]
+        },
+        {
+            "currency": "$",
+            "price": "60",
+            "package": "Abonnement Gold",
+            "mark": true,
+            "active": true,
+            "headings": [
+                "Accès Premium aux Services", 
+                "Réseau de Partenariats ", 
+                "Développement Continus",
+                "Accompagnement",
+                "Gestion de Carrière Complète"
+            ]
+        },
+        {
+            "currency": "$",
+            "price": "99",
+            "mark": false,
+            "active": false,
+            "package": "Abonnement Argent",
+            "headings": [
+                "Accès Premium aux Services", 
+                "Réseau de Partenariats ", 
+                "Développement Continus",
+                "Accompagnement",
+                "Gestion de Carrière Complète"
+            ]
+        }
+    ],
+    "pricingPlanHeading": "Choisissez votre abonnement",
+    "pricingPlanText": "Chez Galaxy Talents, nous offrons des abonnements sur mesure pour répondre aux besoins variés de nos sportifs professionnels. Que vous recherchiez une base solide avec l'abonnement Silver ou un accès premium à l'élite du sport avec l'abonnement Gold, nous avons une solution adaptée à votre parcours sportif",
+    "pricingAboutTitle": "A Propos les abonnements",
+    "pricingAboutText": "Nos abonnements Silver, Gold et Argent sont conçus pour libérer votre potentiel sportif. Ils vous offrent un soutien de qualité, une gestion de carrière experte et des opportunités de partenariats pour maximiser votre réussite dans le monde.",
+    "pricingFeaturesTitle": "Avantages",
+    "pricingFeatures": [
+        "Personnalisés",
+        "Expertise",
+        "Réseau",
+        "Opportunités",
+        "Carrière",
+        "Influence"
+    ] 
+}

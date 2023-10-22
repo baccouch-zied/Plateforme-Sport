@@ -1,0 +1,66 @@
+{
+    "teamMembers": [
+        {
+            "id": 1,
+            "image": "/img/team/team-1/team-1.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 2,
+            "image": "/img/team/team-1/team-2.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 3,
+            "image": "/img/team/team-1/team-3.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 4,
+            "image": "/img/team/team-1/team-4.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+
+        {
+            "id": 5,
+            "image": "/img/team/team-3/team-1.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 6,
+            "image": "/img/team/team-3/team-2.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 7,
+            "image": "/img/team/team-3/team-3.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+
+        {
+            "id": 8,
+            "image": "/img/team/team-2/team-1.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 9,
+            "image": "/img/team/team-2/team-2.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        },
+        {
+            "id": 10,
+            "image": "/img/team/team-2/team-3.jpg",
+            "name": "Gabaji Marwan",
+            "position": "Directeur"
+        }
+    ]
+}

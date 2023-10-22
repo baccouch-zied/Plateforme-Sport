@@ -1,0 +1,38 @@
+{
+    "sectionSubTitle": "Galaxy Talents",
+    "SectionTitle": "Nous sommes<br> toujours prêts <br><span>à un défi</span>",
+    "SectionTitleText": "Rien n'est plus important que d'avoir un désir au fond d’atteindre des objectifs.",
+    "counters": [
+        {
+            "id": 1,
+            "count": "1035",
+            "heading": "Successful projects",
+            "desc": "Since its establishment in 2000, Brook Creative has been focusing on project management & implementation through cooperation."
+        },
+        {
+            "id": 2,
+            "count": "2034",
+            "heading": "Unique designs",
+            "desc": "In total, Brook Creative has created more than 2000 projects related to constructional designing and landscaping worldwide."
+        },
+
+        {
+            "id": 3,
+            "count": "2034",
+            "heading": "Athléte",
+            "icon": "ion-ios-eye-outline"
+        },
+        {
+            "id": 4,
+            "count": "1234",
+            "heading": "Staf technique",
+            "icon": "ion-ios-filing-outline"
+        },
+        {
+            "id": 5,
+            "count": "4585",
+            "heading": "Responsable",
+            "icon": "ion-ios-home-outline"
+        }
+    ]
+}
